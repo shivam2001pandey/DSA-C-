@@ -1,2 +1,2 @@
-# DSA-C-
+# DSA-CSharp
 This repository contains important dsa question 
